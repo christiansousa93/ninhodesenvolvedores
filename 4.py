@@ -1,7 +1,14 @@
-fatorial6 = int (6*5)*(4)*(3)*(2)*(1)
-fatorial5 = int (5*4)*(3)*(2)*(1)
-fatorial4 = int = (4*3)*(2)*(1)
+a = int (input('Digite um número: '))
+b = int (input('Digite um número: '))
+c = int (input('Digite um número: '))
 
-print ('O fatorial de 6 é: ',fatorial6)
-print ('O fatorial de 5 é: ',fatorial5)
-print ('O fatorial de 4 é: ',fatorial4)
+if (a!=b!=c):
+    numbers= [a,b,c]
+    numbers.sort(reverse=True)
+    print(numbers)
+if (a==b==c):
+    print('Os números não podem se repetirem')
+    
+
+
+

@@ -1,8 +1,4 @@
-numero = int (input('Digite um número: '))
+#Tabuada do 13
+num = int (input ('Digite um número: '))
 
-if (numero == 20):
-        print ('Igual a 20.')
-elif (numero <20):
-    print ('Menor que 20.')
-elif (numero >20):
-    print ('Maior que 20.')
+print (num,'multiplicado por 13 é:', (num*13))

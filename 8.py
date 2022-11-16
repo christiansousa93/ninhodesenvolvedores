@@ -1,20 +1,15 @@
-numero1= int(input('Digite o primeiro número: '))
-numero2 = int(input('Digite o segundo número: '))
-numero3 = int(input('Digite o terceiro número: '))
+#Ler do teclado 10 números e imprima a quantidade de números entre 10 e 50.
 
-if numero1 > numero2:
-    if numero2 > numero3:
+num = int (input ('Digite 10 números: '))
+num = int (input ('Digite mais 9 números: '))
+num = int (input ('Digite mais 8 números: '))
+num = int (input ('Digite mais 7 números: '))
+num = int (input ('Digite mais 6 números: '))
+num = int (input ('Digite mais 5 números: '))
+num = int (input ('Digite mais 4 números: '))
+num = int (input ('Digite mais 3 números: '))
+num = int (input ('Digite mais 2 números: '))
+num = int (input ('Digite mais 1 número: '))
 
-       print(f'{numero1} é o maior.')
-
-elif numero2 > numero3:
-
-   if numero3 > numero1:
-
-       print(f'{numero2} é o maior.')
-
-else:
-
-   print(f'{numero3} é o maior.')
-
+for 
 
