@@ -1,0 +1,6 @@
+[
+    {"ID": 1, "Nome": "Marco", "Salario": "1000"},
+    {"ID": 2, "Nome": "Maria", "Salario": "2000"},
+    {"ID": 3, "Nome": "Heleno", "Salario": "2500"},
+    {"ID": 4, "Nome": "Jessica", "Salario": "2500"}
+]
